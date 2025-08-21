@@ -1,0 +1,85 @@
+{
+  "name": "Коллекция великих философов",
+  "description": "3D модели выдающихся мыслителей человечества",
+  "author": "mirgorodskii",
+  "version": "1.0.0",
+  "models": [
+    {
+      "name": "Эпикур",
+      "description": "Древнегреческий философ, основатель эпикуреизма (341-270 до н.э.)",
+      "url": "https://raw.githubusercontent.com/mirgorodskii/octologue/refs/heads/main/epicur.gltf",
+      "position": {"x": -30, "y": 0, "z": -30},
+      "scale": {"x": 1, "y": 1, "z": 1},
+      "rotation": {"x": 0, "y": 0, "z": 0},
+      "period": "Античность",
+      "philosophy": "Эпикуреизм - учение о достижении счастья через избегание страданий"
+    },
+    {
+      "name": "Платон",
+      "description": "Древнегреческий философ, ученик Сократа, учитель Аристотеля (428-348 до н.э.)",
+      "url": "https://raw.githubusercontent.com/mirgorodskii/octologue/refs/heads/main/plato.gltf",
+      "position": {"x": 0, "y": 0, "z": -30},
+      "scale": {"x": 1, "y": 1, "z": 1},
+      "rotation": {"x": 0, "y": 0, "z": 0},
+      "period": "Античность",
+      "philosophy": "Теория идей, философия государства, диалектика"
+    },
+    {
+      "name": "Конфуций",
+      "description": "Древнекитайский мыслитель и философ (551-479 до н.э.)",
+      "url": "https://raw.githubusercontent.com/mirgorodskii/octologue/refs/heads/main/konfu.gltf",
+      "position": {"x": 30, "y": 0, "z": -30},
+      "scale": {"x": 1, "y": 1, "z": 1},
+      "rotation": {"x": 0, "y": 0, "z": 0},
+      "period": "Античность",
+      "philosophy": "Конфуцианство - этическое учение о гармонии в обществе"
+    },
+    {
+      "name": "Иммануил Кант",
+      "description": "Немецкий философ, основоположник классической немецкой философии (1724-1804)",
+      "url": "https://raw.githubusercontent.com/mirgorodskii/octologue/refs/heads/main/kant.gltf",
+      "position": {"x": -15, "y": 0, "z": 0},
+      "scale": {"x": 1, "y": 1, "z": 1},
+      "rotation": {"x": 0, "y": 0, "z": 0},
+      "period": "Просвещение",
+      "philosophy": "Критическая философия, категорический императив, трансцендентальный идеализм"
+    },
+    {
+      "name": "Фридрих Ницше",
+      "description": "Немецкий философ, поэт и филолог (1844-1900)",
+      "url": "https://raw.githubusercontent.com/mirgorodskii/octologue/refs/heads/main/nizche.gltf",
+      "position": {"x": 15, "y": 0, "z": 0},
+      "scale": {"x": 1, "y": 1, "z": 1},
+      "rotation": {"x": 0, "y": 0, "z": 0},
+      "period": "XIX век",
+      "philosophy": "Критика морали, концепция сверхчеловека, 'Бог умер'"
+    },
+    {
+      "name": "Жан-Поль Сартр",
+      "description": "Французский философ, писатель, лауреат Нобелевской премии (1905-1980)",
+      "url": "https://raw.githubusercontent.com/mirgorodskii/octologue/refs/heads/main/sartr.gltf",
+      "position": {"x": -15, "y": 0, "z": 30},
+      "scale": {"x": 1, "y": 1, "z": 1},
+      "rotation": {"x": 0, "y": 0, "z": 0},
+      "period": "XX век",
+      "philosophy": "Экзистенциализм - 'существование предшествует сущности'"
+    },
+    {
+      "name": "Сьюзан Зонтаг",
+      "description": "Американская писательница, философ и культуролог (1933-2004)",
+      "url": "https://raw.githubusercontent.com/mirgorodskii/octologue/refs/heads/main/zontag.gltf",
+      "position": {"x": 15, "y": 0, "z": 30},
+      "scale": {"x": 1, "y": 1, "z": 1},
+      "rotation": {"x": 0, "y": 0, "z": 0},
+      "period": "XX век",
+      "philosophy": "Критика культуры, теория фотографии, феминистская мысль"
+    }
+  ],
+  "layout": "grid",
+  "spacing": 15,
+  "notes": [
+    "Модели расположены в хронологическом порядке от античности к современности",
+    "Позиции рассчитаны для создания 'философского круга'",
+    "Все модели используют единый масштаб для сравнения"
+  ]
+}
